@@ -1,0 +1,23 @@
+uw-sim /home/ece327/bin/uw-sim heatingsys.uwp
+    INFO: Using testbench        : heatingsys_tb
+    INFO: Using design entity    : heatingsys
+    INFO: Using simulation script: heatingsys_tb.sim
+Model Technology ModelSim SE-64 vmap 10.5c Lib Mapping Utility 2016.07 Jul 20 2016
+vmap -c 
+Warning: vmap will not overwrite local modelsim.ini.
+Warning: Library already exists at "work-msim".
+Warning: heatingsys_tb.vhd, line 31: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 33: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 35: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 37: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 39: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 41: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 43: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 45: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 47: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 49: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 51: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 53: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 55: An abstract literal and an identifier must have a separator between them.
+Warning: heatingsys_tb.vhd, line 57: An abstract literal and an identifier must have a separator between them.
+Reading pref.tcl

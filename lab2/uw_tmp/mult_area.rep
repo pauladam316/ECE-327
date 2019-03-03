@@ -1,0 +1,46 @@
+//  Precision RTL Synthesis 64-bit 2015.2.16 (PS2015.2.1 Production Release) Tue Jan  5 23:04:49 PST 2016
+//  
+//  Copyright (c) Mentor Graphics Corporation, 1996-2016, All Rights Reserved.
+//             Portions copyright 1991-2008 Compuware Corporation
+//                       UNPUBLISHED, LICENSED SOFTWARE.
+//            CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS THE
+//          PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+//  
+//  Running on Linux ac4paul@eceubuntu3 #46-Ubuntu SMP Thu Dec 6 14:45:28 UTC 2018 4.15.0-43-generic x86_64
+//  
+//  Start time Sat Feb  9 21:27:02 2019
+
+***************************************************************
+Device Utilization for 10M08SAE144C8GES
+***************************************************************
+Resource                          Used    Avail   Utilization
+---------------------------------------------------------------
+IOs                               28      -            -
+LUTs                              34      8064      0.42%
+Registers                         26      8064      0.32%
+Memory Bits                       0       387072    0.00%
+DSP block 9-bit elems             0       48        0.00%
+---------------------------------------------------------------
+
+*****************************************
+
+Library: work    Cell: mult    View: main
+
+*****************************************
+
+  Cell                     Library  References     Total Area
+
+ GND                       max10     1 x
+ VCC                       max10     1 x
+ dffeas                    max10    26 x      1     26 Registers
+ fiftyfivenm_lcell_comb    max10    34 x      1     34 LUTs
+
+ Number of ports :                      28
+ Number of nets :                       88
+ Number of instances :                  62
+ Number of references to this view :     0
+
+Total accumulated area : 
+ Number of LUTs :                       34
+ Number of Registers :                  26
+ Number of accumulated instances :      62
